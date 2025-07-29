@@ -1,0 +1,6 @@
+name_tool=WDFD TOOL
+version_tool=1.0.5
+coding_tool=Python / Batch
+creator=wdfd
+discord_server=soon
+github_tool=SOON
